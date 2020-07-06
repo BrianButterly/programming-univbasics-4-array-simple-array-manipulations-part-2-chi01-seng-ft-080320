@@ -1,3 +1,1 @@
-for i in 0..3
-  puts i
-end
+(1..10).to_a
